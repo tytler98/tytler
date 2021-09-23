@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T02:35:04.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="0x-puZw4gLlyLnp8TGkV" version="15.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T08:31:02.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yF8uq2WlwoznbW45jJaJ" version="15.2.9" type="github">
   <diagram id="A0rT2BEhsDf-rlqBZgCM" name="Page-1">
     <mxGraphModel dx="946" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,8 @@
         <mxCell id="_p4_WVhmLc4taikgBNbr-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="510" y="520" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-13" value="开通开发者账号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="255" y="140" width="90" height="20" as="geometry" />
+        <mxCell id="_p4_WVhmLc4taikgBNbr-13" value="1.开通开发者账号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="150" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-15" value="三方平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="495" y="80" width="55" height="20" as="geometry" />
@@ -47,7 +47,7 @@
             <mxPoint x="230" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-18" value="注册应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-18" value="3.注册应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="345" y="390" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-19" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -56,7 +56,7 @@
             <mxPoint x="510" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-20" value="返回 appKey、appSecret" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-20" value="4.返回 appKey、appSecret" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="450" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-24" value="登录调试软件，创建住宅、传设备，在on+上确认是否控制成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-24" value="2.登录调试软件，创建住宅、传设备，在on+上确认是否控制成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="265" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-25" value="" style="endArrow=classic;html=1;exitX=0.1;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_p4_WVhmLc4taikgBNbr-10" edge="1">
@@ -90,10 +90,10 @@
             <mxPoint x="350" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-27" value="通过开发者账号获取平台级token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-27" value="5.通过开发者账号获取平台级token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="530" width="115" as="geometry" />
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-28" value="返回平台级token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-28" value="6.返回平台级token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="327" y="590" width="87" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
@@ -167,6 +167,51 @@
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-52" value="返回列表、控制反馈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="291.5" y="990" width="143" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-1" value="三方app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="800" y="650" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-3" value="" style="endArrow=classic;html=1;exitX=0.1;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.5" y="680" as="sourcePoint" />
+            <mxPoint x="520.5" y="682" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-4" value="" style="endArrow=classic;html=1;exitX=1.5;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.4;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="crQLbERBMubIrz4PI6z9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520.5" y="710.96" as="sourcePoint" />
+            <mxPoint x="793.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-5" value="三方app登录三方云端，两边云端做用户关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-6" value="建立好关联关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="720" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="800" y="920" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-9" value="" style="endArrow=classic;html=1;exitX=0.1;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.35;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_p4_WVhmLc4taikgBNbr-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="950" as="sourcePoint" />
+            <mxPoint x="520" y="952" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-10" value="" style="endArrow=classic;html=1;exitX=1.5;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="523.5" y="980.96" as="sourcePoint" />
+            <mxPoint x="797" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-11" value="三方app请求三方云端获取设备列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="910" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="crQLbERBMubIrz4PI6z9-12" value="三方云端返回列表和刷新状态到三方app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="990" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
