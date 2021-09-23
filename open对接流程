@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-23T08:31:02.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yF8uq2WlwoznbW45jJaJ" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T08:37:59.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="syLHk7F9c3h6OsDZlWMS" version="15.2.9" type="github">
   <diagram id="A0rT2BEhsDf-rlqBZgCM" name="Page-1">
     <mxGraphModel dx="946" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,10 +114,10 @@
             <mxPoint x="350" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-33" value="提供三方平台用户唯一标识 uid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-33" value="8.提供三方平台用户唯一标识 uid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="660" width="100" as="geometry" />
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-34" value="返回 memberId，和 uid 一样是三方用户唯一表示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-34" value="9.返回 memberId，和 uid 一样是三方用户唯一表示" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="308.5" y="720" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
@@ -138,10 +138,10 @@
             <mxPoint x="350" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-45" value="获取住宅分页列表，拿到住宅id，将住宅授权给三方账号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-45" value="11.获取住宅分页列表，拿到住宅id，将住宅授权给三方账号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="810" width="160" as="geometry" />
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-46" value="返回提示授权成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-46" value="12.返回提示授权成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="291" y="870" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_p4_WVhmLc4taikgBNbr-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
@@ -162,11 +162,11 @@
             <mxPoint x="350.5" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-51" value="通过uid和homeId获取设备列表、控制设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_p4_WVhmLc4taikgBNbr-51" value="14.通过uid和homeId获取设备列表、控制设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="303.5" y="930" width="130.5" as="geometry" />
         </mxCell>
-        <mxCell id="_p4_WVhmLc4taikgBNbr-52" value="返回列表、控制反馈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="291.5" y="990" width="143" height="20" as="geometry" />
+        <mxCell id="_p4_WVhmLc4taikgBNbr-52" value="15.返回列表、控制反馈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290.5" y="990" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="crQLbERBMubIrz4PI6z9-1" value="三方app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="80" width="60" height="20" as="geometry" />
@@ -186,10 +186,10 @@
             <mxPoint x="793.5" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crQLbERBMubIrz4PI6z9-5" value="三方app登录三方云端，两边云端做用户关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="crQLbERBMubIrz4PI6z9-5" value="7.三方app登录三方云端，两边云端做用户关联" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="650" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="crQLbERBMubIrz4PI6z9-6" value="建立好关联关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="crQLbERBMubIrz4PI6z9-6" value="10.建立好关联关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="720" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="crQLbERBMubIrz4PI6z9-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
@@ -207,10 +207,10 @@
             <mxPoint x="797" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crQLbERBMubIrz4PI6z9-11" value="三方app请求三方云端获取设备列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="crQLbERBMubIrz4PI6z9-11" value="13.三方app请求三方云端获取设备列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="910" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="crQLbERBMubIrz4PI6z9-12" value="三方云端返回列表和刷新状态到三方app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="crQLbERBMubIrz4PI6z9-12" value="16.三方云端返回列表和刷新状态到三方app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="990" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
